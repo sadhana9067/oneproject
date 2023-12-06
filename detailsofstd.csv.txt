@@ -1,0 +1,13 @@
+id,name,city,sal
+101,sadhana,kolhapur,150000
+102,surya,pune,120000
+103,,,130000
+101,sadhana,kolhapur,150000
+104,radhika,mumbai,140000
+105,madhav,dwarka,200000
+106,,,
+107,manish,,138900
+101,sadhana,kolhapur,150000
+108,surendar,panjab,123456
+109,,,236748
+110,munavar,,123455
